@@ -1,0 +1,1 @@
+ C:\\Users\\22602\\AndroidStudioProjects\\sastra_parent\\.dart_tool\\flutter_build\\35e97a96bf0c7af1142b678761aadbb0\\native_assets.json: 
